@@ -26,7 +26,7 @@ La topologie de base inclut :
 - **1 switch** : Interconnecte les appareils.
 - **1 routeur** : Gère le routage entre les réseaux.
 
-![Diagramme de topologie réseau](path/to/topology-diagram.png)
+![Diagramme de topologie réseau](topologie.jpg)
 
 ---
 
