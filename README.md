@@ -69,7 +69,7 @@ La topologie de base inclut :
 - **Wireshark** : Pour analyser le trafic réseau.
 - **Nmap** : Pour les scans réseau.
 - **Kali Linux** (ou équivalent) : Pour simuler les attaques.
-- **Outils de virtualisation** : VMware, VirtualBox ou QEMU (pour héberger les machines virtuelles).
+- **Outils de virtualisation** : VMware (pour héberger les machines virtuelles).
 
 ---
 
@@ -77,7 +77,7 @@ La topologie de base inclut :
 
 1. **Cloner le Référentiel**
    ```bash
-   git clone https://github.com/ton-nom-utilisateur/LabConnect.git
+   git clone https://github.com/ilyasMAJDOUBI/LabConnect.git
    cd LabConnect
 
 
