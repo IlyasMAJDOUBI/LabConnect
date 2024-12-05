@@ -68,7 +68,7 @@ La topologie de base inclut :
 - **GNS3** : Version 2.2 ou supérieure.
 - **Wireshark** : Pour analyser le trafic réseau.
 - **Nmap** : Pour les scans réseau.
-- **Kali Linux** (ou équivalent) : Pour simuler les attaques.
+- **Kali Linux**  : Pour simuler les attaques.
 - **Outils de virtualisation** : VMware (pour héberger les machines virtuelles).
 
 ---
