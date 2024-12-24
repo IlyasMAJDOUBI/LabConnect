@@ -1,4 +1,3 @@
-```markdown
 # Complete Guide to DoS Attacks
 
 ---
@@ -209,6 +208,3 @@ Unlike Distributed DoS (DDoS), a DoS attack uses a single source to launch the a
 ## ✍️ Final Note
 
 This guide provides a foundation for understanding and simulating DoS attacks in an ethical, legal, and controlled environment. Always ensure you have permission to test the systems you work on.
-
----
-```
